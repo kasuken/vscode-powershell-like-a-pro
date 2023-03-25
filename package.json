@@ -1,0 +1,42 @@
+{
+  "name": "powershell-like-a-pro",
+  "displayName": "PowerShell like a Pro",
+  "description": "A Visual Studio Code Extension Pack with many useful extensions for PowerShell.",
+  "version": "1.0.3",
+  "publisher": "emanuelebartolesi",
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kasuken/vscode-powershell-like-a-pro.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kasuken/vscode-powershell-like-a-pro/issues"
+  },
+  "extensionPack": [
+    "vscode-icons-team.vscode-icons",
+    "eamodio.gitlens",
+    "ms-vscode.powershell",
+    "donjayamanne.githistory",
+    "ms-vsliveshare.vsliveshare",
+    "ms-vsliveshare.vsliveshare-audio",
+    "lostintangent.vsls-whiteboard",
+    "gruntfuggly.todo-tree",
+    "ionutvmi.reg",
+    "rangav.vscode-thunder-client",
+    "emanuelebartolesi.powershell-snippets-vscode"
+  ],
+  "icon": "images/logo.png",
+  "author": {
+    "name": "Emanuele Bartolesi",
+    "url": "https://twitter.com/kasuken"
+  },
+  "keywords": [
+    "powershell",
+    "pwsh"
+  ]
+}
